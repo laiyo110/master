@@ -1,1 +1,1 @@
-test http and SSH is need password?
+test http and SSH is need password?delete rsa key!
