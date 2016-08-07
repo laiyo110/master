@@ -1,2 +1,3 @@
 test http and SSH is need password?delete rsa key!
 test GUI!
+test github!
